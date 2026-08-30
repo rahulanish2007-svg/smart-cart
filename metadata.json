@@ -1,0 +1,6 @@
+{
+  "name": "SmartKart AI",
+  "description": "AI-powered smart grocery shopping app with intelligent grocery planner, smart list organizer, and real-time price optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
